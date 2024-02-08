@@ -1,10 +1,7 @@
 CSE 546 — Project README
 
-Group Members
-
-Joseph Hand: Testing.
-Chen Ni Lin: Query the encoding result in DynamoDB and organize the result to output bucket, load .dat file to DynamoDB, Docker Setup, AWS Setup.
-Madhav Rajesh: Frame Selection, Facial Recognition, Docker Setup, AWS Setup, Documentation.
+Query the encoding result in DynamoDB and organize the result to the output bucket, load the .dat file to DynamoDB, Docker Setup, and AWS Setup.
+Frame Selection, Facial Recognition, Docker Setup, AWS Setup, Documentation.
 
 AWS Credentials
 
